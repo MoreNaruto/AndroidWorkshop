@@ -1,0 +1,162 @@
+[
+	{
+		"id": 1,
+		"name": "Tesla",
+		"minimumSalary": 50000.00,
+		"maximumSalary": 150000.00,
+		"position": "Service Technician",
+		"description": "We are looking for a Service Technician to work on one of the most progressive vehicles in the world. This position is customer facing, so solid customer service skills combined with exceptional 'hands on' technical ability go hand in hand."
+	},
+	{
+		"id": 2,
+		"name": "Principal Marketing",
+		"minimumSalary": 30000.00,
+		"maximumSalary": 50000.00,
+		"position": "Marketing",
+		"description": "Under general supervision and according to the established policies and procedures, the Marketing and Communications Intern is responsible for assisting the communications department with a variety of internal and external communications as well as event planning."
+	},
+	{
+		"id": 3,
+		"name": "McCloud Services",
+		"minimumSalary": 60000.00,
+		"maximumSalary": 100000.00,
+		"position": "Service Technician",
+		"description": "Want to make a difference in the world? Want to protect the safety and environments of others? Want to take on new challenges? Look no further. If you are searching for a stable career opportunity that provides flexibility, a fast paced working environment, freedom to work in the field, and helping others - this is the job for you!"
+	},
+	{
+		"id": 4,
+		"name": "Addison Group",
+		"minimumSalary": 80000.00,
+		"maximumSalary": 125000.00,
+		"position": "Developer",
+		"description": "A Chicago Consulting firm is looking for a JAVA DEVELOPER to join their team. If you are a MID-SR, full stack JAVA DEVELOPER to help with their projects please contact Candace Murphy at 312.253.2190 or [Click Here to Email Your Resumé]"
+	},
+	{
+		"id": 5,
+		"name": "Ametek Inc.",
+		"minimumSalary": 75000.00,
+		"maximumSalary": 115000.00,
+		"position": "Developer",
+		"description": "The Full-Stack Web Developer position will design and develop user-facing applications using a React.js, Node.js and MongoDB stack. The duties and tasks involved are constantly changing due to evolving technology and changing product and business needs."
+	},
+	{
+		"id": 6,
+		"name": "Sales i",
+		"minimumSalary": 40000.00,
+		"maximumSalary": 75000.00,
+		"position": "Marketing",
+		"description": "We’re looking for a high energy, hungry individual to join our super awesome marketing team, based in Evanston, IL. Reporting into the Marketing Manager you will play a key role in the day-to-day marketing for the US market to drive new MQLs for the sales team and help support our customer success team to retain our beloved customers."
+	},
+	{
+		"id": 7,
+		"name": "The Chicago Sum Times",
+		"minimumSalary": 45000.00,
+		"maximumSalary": 85000.00,
+		"position": "Marketing",
+		"description": "MARKETING ANALYST Chicago Sun Times Media seeks an experienced and dedicated marketing professional to join our circulation team as a Circulation Audience Analyst. This key position will work across multiple departments within the company to develop, execute and track subscription sales and retention campaigns. "
+	},
+	{
+		"id": 8,
+		"name": "Advantage Solutions",
+		"minimumSalary": 35000.00,
+		"maximumSalary": 115000.00,
+		"position": "Sales",
+		"description": "Are you outgoing, friendly and enjoy meeting new people? Our part time Event Specialist jobs are fun and exciting and could be a great fit for you! Join our winning team as a retail demonstrator promoting best in class products at your local retailers."
+	},
+	{
+		"id": 9,
+		"name": "Greenway Health",
+		"minimumSalary": 30000.00,
+		"maximumSalary": 100000.00,
+		"position": "Sales",
+		"description": "The Manager, District Sales provides oversight, coaching and management to a team of Sales Consultants toward closing new business and managing within Greenway’s existing customer base; driving the team to meet/ exceed individual and team quota and cultivating an environment of accountability. "
+	},
+	{
+		"id": 10,
+		"name": "SMC Corporation of America",
+		"minimumSalary": 35000.00,
+		"maximumSalary": 200000.00,
+		"position": "Sales",
+		"description": "The Account Representative maintains and grows relationships with customers while achieving an assigned sales and growth goal. This position is responsible for retaining existing business, while pursuing profitable growth opportunities."
+	},
+	{
+		"id": 11,
+		"name": "Access Media Holdings, LLC",
+		"minimumSalary": 65000.00,
+		"maximumSalary": 105000.00,
+		"position": "Service Technician",
+		"description": "The Service Technician is a detail-oriented and customer-focused repair technician who is responsible for installing, making service calls, upgrading, maintaining, and repairing residential CATV Systems, DTV Systems, DISH Network Systems, Internet (Docsis and Ethernet), and voice services."
+	},
+	{
+		"id": 12,
+		"name": "CMS Mechanical Service ",
+		"minimumSalary": 70000.00,
+		"maximumSalary": 115000.00,
+		"position": "Service Technician",
+		"description": "If you have previous experience performing service repairs, equipment maintenance and replacements of heating, ventilation, cooling and refrigeration units for commercial customers want to talk to you! APPLY TODAY!"
+	},
+	{
+		"id": 13,
+		"name": "GPAC",
+		"minimumSalary": 40000.00,
+		"maximumSalary": 150000.00,
+		"position": "Sales",
+		"description": "The Sales and Marketing position is responsible for the sales & marketing of a state-of-the art food processing plant. They will have an opportunity to join the company during exciting growth and help take this organization to the next level"
+	},
+	{
+		"id": 14,
+		"name": "National Collegiate Scouting Association",
+		"minimumSalary": 20000.00,
+		"maximumSalary": 70000.00,
+		"position": "Sales",
+		"description": "NCSA is the world’s largest and most successful collegiate athletic recruiting network. A wholly-owned subsidiary of Reigning Champs (www.reigningchamps.com), NCSA’s team of more than 550 former collegiate and professional athletes leverages 16 years of exclusive data, proprietary matching algorithms, and personal relationships to connect tens of thousands of college-bound student-athletes to more than 41,000 college coaches nationwide across 31 sports every year. You can learn more about NCSA at www.ncsasports.org."
+	},
+	{
+		"id": 15,
+		"name": "Collabera",
+		"minimumSalary": 90000.00,
+		"maximumSalary": 155000.00,
+		"position": "Developer",
+		"description": "Android Developer Jobs, Software Developer Jobs, IOS Developer Jobs, Mobile Developer Jobs, Application Mobile Developer Jobs, Application Developer Jobs"
+	},
+	{
+		"id": 16,
+		"name": "Kforce Technology",
+		"minimumSalary": 75000.00,
+		"maximumSalary": 125000.00,
+		"position": "Developer",
+		"description": "RESPONSIBILITIES:A Kforce client is looking for a Full Stack Engineer to build highly scalable front-end solutions in an agile environment working on a scrum team. This position is in Chicago, IL."
+	},
+	{
+		"id": 17,
+		"name": "Cars.com LLC",
+		"minimumSalary": 85000.00,
+		"maximumSalary": 175000.00,
+		"position": "Developer",
+		"description": "Cars.com is a leader in the automotive digital marketplace. Since 1997, we have built our B2B and B2C brand to preeminent status in the industry. While enjoying great stability, we continue to grow. Our workforce has more than doubled since 2006, and our revenue has increased more than 150% in that same time."
+	},
+	{
+		"id": 18,
+		"name": "Stats LLC",
+		"minimumSalary": 55000.00,
+		"maximumSalary": 80000.00,
+		"position": "Marketing",
+		"description": "Due to the success and growth of our company, we are looking to hire a Head of Marketing. In this role, reporting to our Chief Revenue Officer, you'll build and lead a high-impact team across all major marketing disciplines."
+	},
+	{
+		"id": 19,
+		"name": "Adtalem Global Education",
+		"minimumSalary": 60000.00,
+		"maximumSalary": 85000.00,
+		"position": "Marketing",
+		"description": "In this role, you'll execute new and innovative ways to reach a high quality audience and deliver a superior web and e-commerce experience. You will oversee a team of highly engaged and energetic colleagues, working collaboratively to help drive strong business outcomes."
+	},
+	{
+		"id": 20,
+		"name": "Grainger",
+		"minimumSalary": 50000.00,
+		"maximumSalary": 74000.00,
+		"position": "Marketing",
+		"description": "Grainger is a broad line, business-to-business distributor of maintenance, repair and operating (MRO) supplies and other related products and services. More than 3.2 million businesses and institutions worldwide rely on Grainger for products such as safety gloves, ladders, motors and janitorial supplies, along with services like inventory management and technical support."
+	}
+]
