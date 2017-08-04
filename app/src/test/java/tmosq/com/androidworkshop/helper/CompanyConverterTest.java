@@ -20,7 +20,7 @@ public class CompanyConverterTest {
 
     @Before
     public void setUp() throws Exception {
-        companyConverter = new CompanyConverter(RuntimeEnvironment.application.getApplicationContext());
+        companyConverter = new CompanyConverter(RuntimeEnvironment.application);
     }
 
     @Test
@@ -28,13 +28,12 @@ public class CompanyConverterTest {
         Company firstCompany = Company.builder()
                 .id(1)
                 .name("Tesla")
-                .maximumSalary(50000.00)
-                .minimumSalary(150000.00)
+                .maximumSalary(150000.00)
+                .minimumSalary(50000.00)
                 .position("Service Technician")
                 .description("We are looking for a Service Technician to work on one of the most progressive vehicles in the world. This position is customer facing, so solid customer service skills combined with exceptional 'hands on' technical ability go hand in hand.")
                 .build();
 
         assertEquals(companyConverter.getAllCompanies().get(0), firstCompany);
     }
-
 }
